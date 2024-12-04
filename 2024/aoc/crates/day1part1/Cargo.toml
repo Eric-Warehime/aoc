@@ -1,0 +1,15 @@
+[package]
+name = "day1part1"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+license.workspace = true
+homepage.workspace = true
+repository.workspace = true
+exclude.workspace = true
+
+[dependencies]
+sscanf = "0.4.2"
+
+[lints]
+workspace = true
