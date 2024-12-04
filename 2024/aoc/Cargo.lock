@@ -41,7 +41,14 @@ dependencies = [
 ]
 
 [[package]]
-name = "day1part1"
+name = "day1"
+version = "0.0.1"
+dependencies = [
+ "sscanf",
+]
+
+[[package]]
+name = "day2"
 version = "0.0.1"
 dependencies = [
  "sscanf",
