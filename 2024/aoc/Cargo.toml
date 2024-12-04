@@ -89,5 +89,5 @@ lto = "thin"
 strip = "debuginfo"
 
 [workspace.dependencies]
-day1part1 = { path = "crates/day1part1" }
+day1part1 = { path = "crates/day1" }
 
